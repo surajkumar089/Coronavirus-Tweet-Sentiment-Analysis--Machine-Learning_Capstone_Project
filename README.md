@@ -6,8 +6,7 @@
 2. Exploratory Data Analysis./Reviwing Our Dataset
 3. Data Preprocessing.
 4. Model Training- MULTICLASS AND BINARY.
-5. Evaluation.
-6. Conclusion
+5. Conclusion
 
 # 1. Introduction
 Our objective is to build a classification model to predict the sentiment of COVID-19 tweets.The tweets have been pulled from Twitter and manual tagging has been done then. The names and usernames have been given codes to avoid any privacy concerns.
@@ -51,7 +50,6 @@ Most of the tweets came from London followed by U.S.
 ## Tweet sentiment count
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82973819/207887661-186726d0-813b-4bb5-a136-6a1722f0b20b.png">
 
-
 ## 3. Data Preprocessing
 The preprocessing of the text data is an essential step as it makes the raw text ready for mining.
 
@@ -80,5 +78,5 @@ Random Forest
 
 Naive Bayes
 
-## Result
+## Conclusion
 I built a classification model that predicts the sentiment of tweets with an accuracy score of 80%.
