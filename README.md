@@ -47,6 +47,8 @@ Most of the tweets came from London followed by U.S.
 
 ## Number of tweets as per days of the month
 ![image](https://user-images.githubusercontent.com/82973819/207886250-a474a5ae-bb9f-4bb9-90be-c593326ab65c.png)
+<img width="604" alt="image" src="https://user-images.githubusercontent.com/82973819/207886958-9c12ce32-b68f-424f-8806-c342460d10cf.png">
+
 
 ## Tweet sentiment count
 ![image](https://user-images.githubusercontent.com/82973819/207886528-6ec57147-dbe9-4a54-8f73-f001b65cac8d.png)
