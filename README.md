@@ -50,7 +50,7 @@ Most of the tweets came from London followed by U.S.
 
 
 ## Tweet sentiment count
-![image](https://user-images.githubusercontent.com/82973819/207886528-6ec57147-dbe9-4a54-8f73-f001b65cac8d.png)
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/82973819/207887661-186726d0-813b-4bb5-a136-6a1722f0b20b.png">
 
 
 ## 3. Data Preprocessing
