@@ -68,7 +68,8 @@ After cleaning text we also create wordblog
 ![download](https://user-images.githubusercontent.com/60484501/162560110-b1234f1c-4f48-4ff5-be67-d6b91d3e9d60.png)
 
 4. Model Training- MULTICLASS AND BINARY.
-Trained 7 different algorithms for each Multiclass and Binary classification. In Multiclass we have 5 different classes but in binary we have only two class i.e. Positive and Negative. The algorithms that were used -
+
+Trained 4 different algorithms for each Multiclass and Binary classification. In Multiclass we have 4 different classes but in binary we have only two class i.e. Positive and Negative. The algorithms that were used -
 
 Logistic Regression
  
