@@ -48,7 +48,6 @@ Most of the tweets came from London followed by U.S.
 ## Number of tweets as per days of the month
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/82973819/207886958-9c12ce32-b68f-424f-8806-c342460d10cf.png">
 
-
 ## Tweet sentiment count
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82973819/207887661-186726d0-813b-4bb5-a136-6a1722f0b20b.png">
 
@@ -73,9 +72,12 @@ After cleaning text we also create wordblog
 4. Model Training- MULTICLASS AND BINARY.
 Trained 7 different algorithms for each Multiclass and Binary classification. In Multiclass we have 5 different classes but in binary we have only two class i.e. Positive and Negative. The algorithms that were used -
 
-1. Logistic Regression
-2. Support Vector Machine
-3. Random Forest
-4. Naive Bayes
+Logistic Regression
+ 
+Support Vector Machine
+
+Random Forest
+
+Naive Bayes
 
 
