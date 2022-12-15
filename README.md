@@ -80,4 +80,5 @@ Random Forest
 
 Naive Bayes
 
-
+## Result
+I built a classification model that predicts the sentiment of tweets with an accuracy score of 80%.
