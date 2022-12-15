@@ -73,9 +73,9 @@ After cleaning text we also create wordblog
 4. Model Training- MULTICLASS AND BINARY.
 Trained 7 different algorithms for each Multiclass and Binary classification. In Multiclass we have 5 different classes but in binary we have only two class i.e. Positive and Negative. The algorithms that were used -
 
--Logistic Regression
--Support Vector Machine
--Random Forest
--Naive Bayes
+1. Logistic Regression
+2. Support Vector Machine
+3. Random Forest
+4. Naive Bayes
 
 
